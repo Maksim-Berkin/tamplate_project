@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from '../components/Header';
-import Hero from '../components/Hero';
-import HowItWorks from '../components/HowItWorks';
-import WhatWeTake from '../components/WhatWeTake';
-import Pricing from '../components/Pricing';
-import BookRemoval from '../components/BookRemoval';
-import Reviews from '../components/Reviews';
+import Header from './components/Header';
+import Hero from './components/Hero';
+import HowItWorks from './components/HowItWorks';
+import WhatWeTake from './components/WhatWeTake';
+import Pricing from './components/Pricing';
+import BookRemoval from './components/BookRemoval';
+import Reviews from './components/Reviews';
 
 const App = () => {
   return (
